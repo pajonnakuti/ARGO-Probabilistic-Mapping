@@ -7,9 +7,9 @@ This project aims to analyze 20 years of T/S metadata from Argo floats deployed 
 ## Objectives
 
 1. **Metadata Analysis**: Identify regions with available data even though instruments were not deployed using ships.
-2. **Current Drift Analysis**: Determine regions where observations can still be obtained based on the current drift without the need for ship deployment.
+2. **Current Drift Analysis**: Determine regions where observations can still be obtained based on the current drift without ship deployment.
 3. **Probability Density Maps**: Create probability density maps to evaluate:
-    - Locations where Argo floats were deployed and observations are available.
+    - Locations where Argo floats were deployed,and observations are available.
     - Locations where no deployment happened, but data is still available.
     - The confidence and probability that specific areas do not need deployment but can still provide data.
 
@@ -27,24 +27,24 @@ This project aims to analyze 20 years of T/S metadata from Argo floats deployed 
     - Calculate the probability and confidence levels for obtaining data in regions without ship-based deployment.
 
 4. **Density Map Generation**:
-    - Create probability density maps using the analyzed data to visually represent the regions with and without deployment needs.
+    - Create probability density maps using the analyzed data to represent the regions with and without deployment needs visually.
 
 ## Results
 
 ### Regions with Data Availability Without Ship Deployment
-Using the metadata analysis, regions were identified where data is available even though instruments were not deployed using ships.
+The metadata analysis identified regions where data is available even though instruments were not deployed using ships.
 
 ### Regions with No Need for Ship Deployment
-Based on current drift analysis, regions were identified where observations can still be obtained without the need for ship deployment.
+Based on current drift analysis, regions were identified where observations can still be obtained without ship deployment.
 
 ### Probability Density Maps
 Probability density maps were derived to show:
-- Locations where deployment occurred and data is available.
+- Locations where deployment occurred, and data is available.
 - Locations where no deployment occurred, but data is still available.
 - The confidence and probability that certain areas do not need deployment but can still obtain data.
 
 ### Deployment Probability 
-![Probability Density Map](DP.png) 
+![Probability Density Map](DP.png)  
 ### Profile Probability 
 ![Probability Density Map](PP.png)
 
