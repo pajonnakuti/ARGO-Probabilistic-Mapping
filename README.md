@@ -43,7 +43,10 @@ Probability density maps were derived to show:
 - Locations where no deployment occurred, but data is still available.
 - The confidence and probability that certain areas do not need deployment but can still obtain data.
 
-![Probability Density Map](path_to_image.png)
+### Deployment Probability 
+![Probability Density Map](DP.png) 
+### Profile Probability 
+![Probability Density Map](PP.png)
 
 ## Conclusion
 
