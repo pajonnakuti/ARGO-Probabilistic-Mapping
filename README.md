@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to analyze 20 years of T/S metadata from Argo floats deployed in the Indian Ocean to identify regions where data is available despite the absence of ship-based deployments. By examining current drift patterns and deriving probability density maps, we aim to determine areas where Argo float deployments using ships are unnecessary.
+This is the project that aims to analyze 20 years of T/S metadata from Argo floats deployed in the Indian Ocean to identify regions where data is available despite the absence of ship-based deployments. By examining current drift patterns and deriving probability density maps, we aim to determine areas where Argo float deployments using ships are unnecessary.
 
 ## Objectives
 
